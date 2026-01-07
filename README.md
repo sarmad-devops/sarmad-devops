@@ -7,9 +7,9 @@
   <a href="https://www.linkedin.com/in/muhammad-sarmad-raza-65131323b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:sarmadraza.devops@gmail.com" target="_blank">
+  <!-- <a href="mailto:sarmadraza.devops@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-success?style=for-the-badge&logo=gmail" />
-  </a>
+  </a> -->
   <!-- <a href="https://YOUR_PORTFOLIO_WEBSITE" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
   </a> -->
@@ -59,8 +59,8 @@
 
 --- -->
 
-## 📬 Connect With Me
-<p>
+
+<!-- <p>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -70,7 +70,7 @@
   <a href="https://github.com/YOUR_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-</p>
+</p> -->
 
 ---
 
