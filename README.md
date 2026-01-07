@@ -10,9 +10,9 @@
   <a href="mailto:sarmadraza.devops@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-success?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_WEBSITE" target="_blank">
+  <!-- <a href="https://YOUR_PORTFOLIO_WEBSITE" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -43,24 +43,24 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165"/>
-</p>
+</p> -->
 
 ---
 
-## 🔥 Contribution Graph (Snake)
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
----
+--- -->
 
 ## 📬 Connect With Me
 <p>
