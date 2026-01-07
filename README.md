@@ -4,7 +4,7 @@
 <h3 align="center">DevOps Engineer | AWS • Kubernetes • CI/CD • Docker • Terraform</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-sarmad-raza-65131323b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:sarmadraza.devops@gmail.com" target="_blank">
