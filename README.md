@@ -39,9 +39,6 @@
 - ✅ **Observability** (Prometheus + Grafana), Logging (Fluent Bit/CloudWatch)  
 - ✅ **IaC** (Terraform), repeatable infrastructure & environment provisioning  
 
-> Pin your best repositories here by going to your profile → **Customize your pins**
-
----
 
 
 <!-- <p align="center">
