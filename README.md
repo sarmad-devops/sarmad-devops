@@ -1,7 +1,7 @@
 <!-- PROFILE README for Muhammad Sarmad Raza -->
 
 <h1 align="center">Hey Everyone 👋, I'm Muhammad Sarmad Raza</h1>
-<h3 align="center">DevOps Engineer | AWS • Kubernetes • CI/CD • Docker • Terraform</h3>
+<h3 align="center">DevOps Engineer | AWS | Kubernetes | CI/CD | Docker | Terraform</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-sarmad-raza-65131323b" target="_blank">
