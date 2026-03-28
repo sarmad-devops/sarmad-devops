@@ -50,10 +50,9 @@
 
 ## 💼 Open to Collaborations
 
-<p align="center">
-✅ DevOps Consulting &nbsp;•&nbsp; Infrastructure Setup &nbsp;•&nbsp; CI/CD &nbsp;•&nbsp; Kubernetes Deployments
-</p>
+🔹 DevOps Consulting — Help teams set up scalable cloud infrastructure  
+🔹 CI/CD Pipelines — Automate your deployments end to end  
+🔹 Kubernetes Setup — EKS, k3s, Ingress, Autoscaling  
+🔹 Infrastructure as Code — Terraform based repeatable environments  
 
-<p align="center">
-If you have a project, let's connect and build something reliable 🚀
-</p>
+📬 Got a project in mind? Let's talk — **sarmadraza.devops@gmail.com**
