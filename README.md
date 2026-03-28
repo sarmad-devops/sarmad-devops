@@ -7,15 +7,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-sarmad-raza-65131323b" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-sarmad-raza-65131323b" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:sarmadraza.devops@gmail.com" target="_blank">
+  <a href="mailto:sarmadraza.devops@gmail.com" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/sarmad-devops" target="_blank">
+  <a href="https://github.com/sarmad-devops" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28"/>
   </a>
 </p>
