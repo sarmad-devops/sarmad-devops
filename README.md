@@ -8,14 +8,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-sarmad-raza-65131323b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:sarmadraza.devops@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-sarmadraza.devops@gmail.com-success?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sarmad-devops" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
----
 
 ## 🚀 About Me
 
