@@ -1,9 +1,8 @@
-<!-- PROFILE README for Muhammad Sarmad Raza -->
 <h1 align="center">Hey Everyone 👋, I'm Muhammad Sarmad Raza</h1>
 <h3 align="center">DevOps Engineer | AWS | Kubernetes | CI/CD | Docker | Terraform</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarmad-devops&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sarmad-devops&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/sarmad-devops?label=Followers&style=social" />
 </p>
 
@@ -12,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:sarmadraza.devops@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-success?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-sarmadraza.devops@gmail.com-success?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -36,18 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarmad-devops&show_icons=true&rank_icon=github&hide_border=true&theme=dark" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarmad-devops&hide_border=true&theme=dark" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarmad-devops&layout=compact&hide_border=true&theme=dark" height="165"/>
-</p>
-
----
-
 ## 📌 Featured Work
 
 - ✅ **CI/CD Pipelines** (GitHub Actions / Jenkins) for multi-env deployments
@@ -59,6 +46,10 @@
 
 ## 💼 Open to Collaborations
 
-✅ DevOps Consulting • Infrastructure Setup • CI/CD • Kubernetes Deployments
+<p align="center">
+✅ DevOps Consulting &nbsp;•&nbsp; Infrastructure Setup &nbsp;•&nbsp; CI/CD &nbsp;•&nbsp; Kubernetes Deployments
+</p>
 
+<p align="center">
 If you have a project, let's connect and build something reliable 🚀
+</p>
