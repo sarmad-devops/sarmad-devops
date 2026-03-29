@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarmad-devops&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/sarmad-devops?label=Followers&style=social" />
+  <!-- <img src="https://img.shields.io/github/followers/sarmad-devops?label=Followers&style=social" /> -->
 </p>
 
 <p align="center">
